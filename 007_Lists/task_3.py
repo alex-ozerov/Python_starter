@@ -1,19 +1,13 @@
 a = int(input("Введите число a:"))
 b = int(input("Введите число b:"))
 list = []
-k = 0
-if a == 1:
-    a1 = a + 1
-else:
-    a1 = a
-for i in range(a1, b+1):
-    for j in range(a1, i):
+for i in range(a, b+1):
+    k = 0
+    for j in range(1, i):
         if i % j == 0:
             k = k + 1
-    if k == 0:
+    if k == 1:
         list.append(i)
-    else:
-        k = 0
 print(list)
 
 
