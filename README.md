@@ -85,6 +85,6 @@
   ---
 ### Lesson №8 "PEP8"
   #### Homework
-  edit the code according to PEP8.
+  Edit the code according to PEP8.
   
   
