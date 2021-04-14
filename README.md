@@ -82,3 +82,9 @@
   #### Homework additional task
   Create a list, enter the number of its elements and the values themselves, print these values to the screen in reverse order.
   
+  ---
+### Lesson №8 "PEP8"
+  #### Homework
+  edit the code according to PEP8.
+  
+  
